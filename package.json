@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/AbhishekBhargav99/resume",
+  "homepage": "https://AbhishekBhargav99.github.io/resume",
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
